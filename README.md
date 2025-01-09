@@ -1,1 +1,3 @@
-# sedgewick_Algorithms_in_C_3rd_ed
+# Sedgewick Algorithms in C 3rd ed
+***
+Este repositorio está pensado para coleccionar todo código relacionado con la lectura del libro de Robert Sedgewick.
